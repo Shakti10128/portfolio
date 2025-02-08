@@ -1,4 +1,4 @@
-<h2 align="center">Personal Portfolio <br/> <a target="_blank" href="https://portfolio-devanshsahni.vercel.app/">ShaktiKumar</a></h2>
+<h2 align="center">Personal Portfolio <br/> <a target="_blank" href="https://shaktikumar-portfolio.vercel.app/">ShaktiKumar</a></h2>
 
 <br/>
 
