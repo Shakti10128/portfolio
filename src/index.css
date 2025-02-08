@@ -245,7 +245,8 @@ b{
 
 @media(max-width:900px){
   .HomePage{
-    display: block;
+    display: flex;
+    flex-direction: column;
     text-align: center;
     margin-top: 150px;
     padding: 25px;
@@ -270,6 +271,8 @@ b{
 
 @media(max-width: 500px) {
   .HomePage{
+    display: flex;
+    flex-direction: column;
     min-height: 70vh;
   }
   .NavbarLinks{
@@ -333,7 +336,8 @@ b{
 
 @media(max-width:900px){
   .AboutPage{
-    display: block;
+    display: flex;
+    flex-direction: column;
     text-align: center;
     padding: 30px;    
   }
